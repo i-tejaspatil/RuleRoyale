@@ -1,0 +1,2 @@
+
+<RuleRoyale:composeApp>:com.ruleroyale:&com.ruleroyale.engine.ecosystem.engine:%com.ruleroyale.engine.ecosystem.model:'com.ruleroyale.engine.ecosystem.presets:#com.ruleroyale.engine.ecosystem.rng:%com.ruleroyale.engine.ecosystem.rules:&com.ruleroyale.engine.ecosystem.status:#com.ruleroyale.engine.lifefromrules:com.ruleroyale.platform:com.ruleroyale.ui.battle:com.ruleroyale.ui.ecosystem:com.ruleroyale.ui.home:com.ruleroyale.ui.lifefromrules:com.ruleroyale.ui.theme:)ruleroyale.composeapp.generated.resources
